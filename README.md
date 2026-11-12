@@ -29,4 +29,7 @@
 1. 语料最新：1990–2019，美式当代口语，比 BNC、Longman、Ogden 更贴近现在的说法
 2. 排序更科学：按使用频率排序，不是经验筛选
 
+词库官网链接：https://www.english-corpora.org/resources.asp
+
+本仓库不打包完整 COCA 频率数据。如需词频在 5000 以上的单词列表，请自行从官网获取官方词表，按 spoken 子库排序后覆盖
 
